@@ -1,0 +1,30 @@
+{
+  "source_url": "https://promptsiacopieecole.site/",
+  "generated_at": "2026-10-18T00:42:48.446Z",
+  "captured": [
+    {
+      "path": "assets/js/189zvnv-events.124894084da8c432.js",
+      "from": "https://promptsiacopieecole.site/__l5e/events.124894084da8c432.js",
+      "bytes": 25469
+    },
+    {
+      "path": "assets/js/1o8bvqp--flock.js",
+      "from": "https://promptsiacopieecole.site/~flock.js",
+      "bytes": 21296
+    },
+    {
+      "path": "assets/css/14sc396-index-BRsp6Vp0.css",
+      "from": "https://promptsiacopieecole.site/assets/index-BRsp6Vp0.css",
+      "bytes": 73351
+    },
+    {
+      "path": "assets/js/1fhglvb-index-BWdQweAa.js",
+      "from": "https://promptsiacopieecole.site/assets/index-BWdQweAa.js",
+      "bytes": 805477
+    }
+  ],
+  "skipped": [],
+  "removed_scripts": [],
+  "warnings": [],
+  "errors": []
+}
